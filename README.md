@@ -1,14 +1,14 @@
 # Frees : Pizza-Sipariş_Formu - JS 
 
-- https://yhekim.github.io/Weaather_App_Sidebar/
+- https://yhekim.github.io/Pizza_Siparis_Formu/
 
-- https://quirky-montalcini-b728e7.netlify.app
+- https://determined-leakey-82b154.netlify.app/
 
 ## Description
 
 Project aims to create a Pizza Siparis Formu.
 
-![gif](https://github.com/yhekim/Weaather_App_Sidebar/blob/main/ezgif.com-gif-maker.gif)
+![gif](https://raw.githubusercontent.com/yhekim/Pizza_Siparis_Formu/main/pizza_siparis_formu.gif)
 
 
 ### At the end of the project, following topics are to be covered;
